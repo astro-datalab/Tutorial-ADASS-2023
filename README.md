@@ -12,6 +12,7 @@ Sign up for an Astro Data Lab account here: https://datalab.noirlab.edu/account/
 - Help desk: https://datalab.noirlab.edu/help/
 - Full notebook suite: https://github.com/astro-datalab/notebooks-latest
 - SPARCL homepage: https://astrosparcl.datalab.noirlab.edu/
+- ADASS 2023 homepage: https://adass2023.lpl.arizona.edu/
 
 ### Contact info for questions/comments
 Astro Data Lab: datalab@noirlab.edu  
